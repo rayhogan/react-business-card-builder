@@ -1,0 +1,25 @@
+.Card
+{
+    width: 200px;
+    height: 100px;
+    background-color: slategrey;
+    border-radius: 30px;
+    border: black solid 2px;
+    padding: 10px;
+}
+
+.BusinessCard
+{
+    height: 300px;
+    width: 550px;
+    background-color: #e0d7c6;
+    position: relative;
+}
+
+.PhoneNumber
+{
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
+}
