@@ -8,7 +8,7 @@ import BusinessCard from './BusinessCard';
 
 ReactDOM.render(
   <React.StrictMode>
-    <BusinessCard />
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );
