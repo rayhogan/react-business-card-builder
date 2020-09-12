@@ -3,10 +3,12 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import JobTitle from './JobTitle';
+import BusinessCard from './BusinessCard';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <BusinessCard />
   </React.StrictMode>,
   document.getElementById('root')
 );

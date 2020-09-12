@@ -9,7 +9,19 @@ class JobTitle extends React.Component {
     render() {
         return (
             <div className="BusinessCard">
-                <div className="PhoneNumber">222 555 6342</div>
+                <div className="Row clearFix">
+                    <div className="PhoneNumber">222 555 6342</div>
+
+                    <div className="CompanyName">
+                        <p>Pierce and Pierce</p>
+                        <p>Mergers and Acquisitions</p>
+                    </div>
+                </div>
+                <div className="Row">
+                    <div className="UserName">Patrick Bateman</div>
+                    <div className="JobTitle">Vice President</div>
+                </div>
+                <div className="Row"></div>
             </div>
         );
     }

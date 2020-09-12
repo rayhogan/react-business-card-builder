@@ -1,3 +1,12 @@
+
+@import url(https://fonts.googleapis.com/css?family=Cormorant+Garamond);
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 .Card
 {
     width: 200px;
@@ -8,18 +17,52 @@
     padding: 10px;
 }
 
+
 .BusinessCard
 {
     height: 300px;
     width: 550px;
     background-color: #e0d7c6;
-    position: relative;
+    font-family: "Cormorant Garamond", serif;
+    text-transform: uppercase;
+    box-sizing: inherit;
+    font-size: 10.5px;
+    letter-spacing: 1px;
+    text-shadow: 0 0 2px rgba(0, 0, 0, .5),
+                  -1px -1px 1px rgba(179, 179, 179, .5),
+                  1px 1px 0 rgba(255, 255, 255, 0.55),
+                  0 1px 3px white;
+    overflow: hidden;
+    color: #191919;
+
+    padding:10px;
 }
 
+.Row
+{
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.Row p
+{
+    margin: 0;
+}
+
+.Row:nth-child(2) {
+    margin: 35px 0 50px 0;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
 .PhoneNumber
 {
-    position: absolute;
-    top: 8px;
-    right: 16px;
-    font-size: 18px;
+   float:left;
+}
+.CompanyName
+{
+    float: right;
 }
