@@ -14,14 +14,16 @@ class JobTitle extends React.Component {
 
                     <div className="CompanyName">
                         <p>Pierce and Pierce</p>
-                        <p>Mergers and Acquisitions</p>
+                        <p className="Small">Mergers and Acquisitions</p>
                     </div>
                 </div>
                 <div className="Row">
                     <div className="UserName">Patrick Bateman</div>
                     <div className="JobTitle">Vice President</div>
                 </div>
-                <div className="Row"></div>
+                <div className="Row Small">
+                358 Exchange Place New York, NY. 10099 Fax 212 555 6390 Telex 10 4534
+                </div>
             </div>
         );
     }
