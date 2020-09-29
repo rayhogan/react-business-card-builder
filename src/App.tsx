@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import JobTitle from './JobTitle';
 import BusinessCard from './BusinessCard';
+import Name from './Name';
 
 function App() {
   return (
@@ -10,7 +11,12 @@ function App() {
       <header className="App-header">
         <div>
           <div id="CardControls">
-            <JobTitle />
+            <div>
+              <Name />
+            </div>
+            <div>
+              <JobTitle />
+            </div>
           </div>
           <div>
             <BusinessCard />
