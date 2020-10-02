@@ -11,19 +11,22 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div>
-          <div id="CardControls">
+          <div className="CardControls">
             <div>
               <Name />
             </div>
             <div>
               <JobTitle />
             </div>
-            <div>
-              <Address />
-            </div>
           </div>
           <div>
             <BusinessCard />
+          </div>
+
+          <div className="CardControls">
+            <div>
+              <Address />
+            </div>
           </div>
         </div>
       </header>

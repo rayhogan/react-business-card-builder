@@ -24,7 +24,7 @@
   color: white;
 }
 
-#CardControls
+.CardControls
 {
   display: flex;
   flex-direction: row;
