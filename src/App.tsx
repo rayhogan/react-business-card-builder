@@ -4,6 +4,7 @@ import './App.css';
 import JobTitle from './JobTitle';
 import BusinessCard from './BusinessCard';
 import Name from './Name';
+import Address from './Address';
 
 function App() {
   return (
@@ -16,6 +17,9 @@ function App() {
             </div>
             <div>
               <JobTitle />
+            </div>
+            <div>
+              <Address />
             </div>
           </div>
           <div>
