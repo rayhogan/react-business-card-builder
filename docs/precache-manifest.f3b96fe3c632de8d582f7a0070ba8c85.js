@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "784810adc5c967995aa9804a300765cb",
+    "revision": "06bf60faf5f0a2ae50620e8ae40f26e9",
     "url": "/react-business-card-builder/index.html"
   },
   {
-    "revision": "d75dea4d5c43f193aac7",
+    "revision": "02396b81a3a0e739fda7",
     "url": "/react-business-card-builder/static/css/main.ab610a16.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-business-card-builder/static/js/2.5b524555.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d75dea4d5c43f193aac7",
-    "url": "/react-business-card-builder/static/js/main.51a663e9.chunk.js"
+    "revision": "02396b81a3a0e739fda7",
+    "url": "/react-business-card-builder/static/js/main.3d257453.chunk.js"
   },
   {
     "revision": "4db09bc7a860c6276288",
