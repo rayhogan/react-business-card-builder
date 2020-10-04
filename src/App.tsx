@@ -6,6 +6,7 @@ import BusinessCard from './BusinessCard';
 import Name from './Name';
 import Address from './Address';
 import PhoneNumber from './PhoneNumber';
+import CompanyName from './CompanyName';
 
 function App() {
   return (
@@ -23,13 +24,17 @@ function App() {
           <div>
             <BusinessCard />
           </div>
-
           <div className="CardControls">
             <div>
               <Address />
             </div>
             <div>
               <PhoneNumber />
+            </div>
+          </div>
+          <div className="CardControls">
+            <div>
+              <CompanyName />
             </div>
           </div>
         </div>
