@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-business-card-builder/static/css/main.ab610a16.chunk.css",
-    "main.js": "/react-business-card-builder/static/js/main.3d257453.chunk.js",
-    "main.js.map": "/react-business-card-builder/static/js/main.3d257453.chunk.js.map",
+    "main.js": "/react-business-card-builder/static/js/main.372d25ee.chunk.js",
+    "main.js.map": "/react-business-card-builder/static/js/main.372d25ee.chunk.js.map",
     "runtime-main.js": "/react-business-card-builder/static/js/runtime-main.4b775bc1.js",
     "runtime-main.js.map": "/react-business-card-builder/static/js/runtime-main.4b775bc1.js.map",
     "static/js/2.5b524555.chunk.js": "/react-business-card-builder/static/js/2.5b524555.chunk.js",
     "static/js/2.5b524555.chunk.js.map": "/react-business-card-builder/static/js/2.5b524555.chunk.js.map",
     "index.html": "/react-business-card-builder/index.html",
-    "precache-manifest.f3b96fe3c632de8d582f7a0070ba8c85.js": "/react-business-card-builder/precache-manifest.f3b96fe3c632de8d582f7a0070ba8c85.js",
+    "precache-manifest.cf0e368ffd5d726b6d7d2894575dec3b.js": "/react-business-card-builder/precache-manifest.cf0e368ffd5d726b6d7d2894575dec3b.js",
     "service-worker.js": "/react-business-card-builder/service-worker.js",
     "static/css/main.ab610a16.chunk.css.map": "/react-business-card-builder/static/css/main.ab610a16.chunk.css.map",
     "static/js/2.5b524555.chunk.js.LICENSE.txt": "/react-business-card-builder/static/js/2.5b524555.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4b775bc1.js",
     "static/js/2.5b524555.chunk.js",
     "static/css/main.ab610a16.chunk.css",
-    "static/js/main.3d257453.chunk.js"
+    "static/js/main.372d25ee.chunk.js"
   ]
 }
